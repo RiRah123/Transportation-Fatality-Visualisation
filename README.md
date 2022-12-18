@@ -10,5 +10,7 @@ The `Transportation Fatality Visualisation` is a D3.js multi-line chart visualiz
 ## Why We Choose a Multi-Line Chart?
 We felt this visualization was appropriate for several reasons. Since the provided CSV file divided the number of vehicle deaths by the year it happened, a line chart would track changes in the number of deaths for a given transportation mode over the years. With our visualization, the audience can quickly identify significant trends, such as cars making about ~70% of the total fatalities and motorcycle fatalities decreasing from 1980-1995 but then increased again from 1995 onwards. Secondly, we added multiple lines to the line chart as the dataset includes multiple transportation modes rather than one. By including multiple lines and toggling their visibility with the checkboxes, the audience can easily compare the death rates between each transportation type. For example, it is very apparent from our visualization that cars have the highest death rate among all transportation modes, and trucks and motorcycles have the lowest.
 
-
 ## Demo Video
+
+https://user-images.githubusercontent.com/83044307/208308842-ecc59825-7366-48e9-88de-8a717f760939.mp4
+
