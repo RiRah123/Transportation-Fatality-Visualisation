@@ -14,3 +14,6 @@ We felt this visualization was appropriate for several reasons. Since the provid
 
 https://user-images.githubusercontent.com/83044307/208308842-ecc59825-7366-48e9-88de-8a717f760939.mp4
 
+# Contacts
+- [Amit Kulkarni (Full Stack Developer)](https://github.com/amitkulk123)
+- [Rian Rahman (Full Stack Developer)](https://github.com/RiRah123)
