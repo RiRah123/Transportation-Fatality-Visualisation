@@ -4,6 +4,10 @@
 [![JavaScipt](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=D3.js&logoColor=white)]()
 
+<p align="center">
+  <img src="./transportation-fatality-visualisation.gif" width="1000" height="475">
+</p>
+
 ## Project Summary
 The `Transportation Fatality Visualisation` is a D3.js multi-line chart visualization, illustrating and comparing the fatality rates (per 100k) for different modes of transportation from 1975 to 2020. On the multi-line chart, the x-axis represented the year, the y-axis represented the death rate, and each line represented a mode of transportation. We also support various user interactions. With our visualisation, users can filter fatality rates for a particular mode of transportation by selecting or deselecting the provided checkboxes. Also, users can evaluate the numerical fatality rates for all current selected modes of transportation of a given year by hovering on the line chart.
 
